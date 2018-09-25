@@ -14,7 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("HOLA MUNDO")
-        
+        print("max")
+        //nombre
+        //1
+        //hola
     }
 
     override func didReceiveMemoryWarning() {
