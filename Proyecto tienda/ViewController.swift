@@ -4,7 +4,7 @@
 //
 //  Created by Eduardo Quintero on 25/09/18.
 //  Copyright © 2018 New X. All rights reserved.
-//
+//Este es un preyectode una tineda virtual orientado a un demo
 
 import UIKit
 
