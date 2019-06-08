@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         //hola
         print("experimento")
         print("nuevo cambio")
+        print("mas cambios")
+        print("tiempo")
     }
 
     override func didReceiveMemoryWarning() {
